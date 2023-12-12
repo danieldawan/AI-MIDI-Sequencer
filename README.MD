@@ -1,1 +1,1 @@
-AI MIDI Sequencer powered by PyTorch.
+AI Generative MIDI Sequencer powered by PyTorch.
